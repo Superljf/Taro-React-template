@@ -1,11 +1,6 @@
 # Taro-React-template
 Taro+React+template wechat mini program built by tsx
 
-下面是一个示例 `README.md` 文档，适用于你使用 Taro 和 React 开发的微信小程序项目：
-
-```markdown
-# Taro-React-template
-
 ## 项目简介
 
 `Taro-React-template` 是一个基于 Taro 和 React 的微信小程序项目。该项目使用 Taro 3.6.34 和 React 18.0.0 开发，并支持 Less 样式。
@@ -20,7 +15,7 @@ Taro+React+template wechat mini program built by tsx
 
 ## 项目结构
 
-```
+
 my-taro-app/
 ├── src/
 │   ├── pages/
@@ -34,7 +29,7 @@ my-taro-app/
 ├── node_modules/
 ├── package.json
 └── README.md
-```
+
 
 ## 安装
 
